@@ -1,0 +1,35 @@
+{
+  "name": "node-red-contrib-removehtmlfrom-input-to-watson-conversation",
+  "version": "0.0.2",
+  "description": "The node aims to clean html metadata which comes from user input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbjares/removehtmlfrominputtoconversation-.git"
+  },
+  "keywords": [
+    "personal",
+    "htmltotext",
+    "htmltotext-watson",
+    "discovery",
+    "query",
+    "remove",
+    "html",
+    "watson",
+    "conversation"
+  ],
+  "dependencies": {
+    "emoji-regex": "^6.4.2",
+    "emoji-replace": "^1.0.1",
+    "emoji-strip": "^1.0.1"
+  },
+  "author": "Joao Bosco Jares",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jbjares/removehtmlfrominputtoconversation-/issues"
+  },
+  "homepage": "https://github.com/jbjares/removehtmlfrominputtoconversation-#readme"
+}
